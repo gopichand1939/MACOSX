@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3b38843.css",
+    "main.js": "/static/js/main.37051d46.js",
+    "static/js/787.4038979a.chunk.js": "/static/js/787.4038979a.chunk.js",
+    "static/media/carousel3.jpg": "/static/media/carousel3.e4c37a43777dc102901d.jpg",
+    "static/media/carousel2.jpg": "/static/media/carousel2.8ba533b7f279d897e77c.jpg",
+    "static/media/Banner_12.jpg": "/static/media/Banner_12.493864ba25752ed4818f.jpg",
+    "static/media/banner_projects.jpg": "/static/media/banner_projects.bc44d71a7b7854e48592.jpg",
+    "static/media/carousel1.jpg": "/static/media/carousel1.12c7fc3ef8caf23bed66.jpg",
+    "static/media/testimonial.jpg": "/static/media/testimonial.59af3b9d3cf82b6bf2ec.jpg",
+    "static/media/project1.png": "/static/media/project1.2472d64384605c2721c4.png",
+    "static/media/ourculture.png": "/static/media/ourculture.7a1f4dc8d25cb6404706.png",
+    "static/media/Banner_11.jpg": "/static/media/Banner_11.51d35719ffe2c1897db4.jpg",
+    "static/media/Banner_14.jpg": "/static/media/Banner_14.375950af7b7da34055fd.jpg",
+    "static/media/professional.png": "/static/media/professional.a83f987c8d996da2d069.png",
+    "static/media/future.png": "/static/media/future.8bd4b38898be020fdbd6.png",
+    "static/media/ongoing.png": "/static/media/ongoing.c57345ca5e6f1ab70b44.png",
+    "static/media/transparency.png": "/static/media/transparency.49cf898d86059cec08d6.png",
+    "static/media/insrued.png": "/static/media/insrued.3f495830b0f5fb47fbbe.png",
+    "static/media/quality.png": "/static/media/quality.1895b5e7010d2884f107.png",
+    "static/media/completed.png": "/static/media/completed.06e5c9b7c639281b21e0.png",
+    "static/media/hpr-infra-logo.png": "/static/media/hpr-infra-logo.f72207c02a0e4f2f7087.png",
+    "index.html": "/index.html",
+    "main.c3b38843.css.map": "/static/css/main.c3b38843.css.map",
+    "main.37051d46.js.map": "/static/js/main.37051d46.js.map",
+    "787.4038979a.chunk.js.map": "/static/js/787.4038979a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b38843.css",
+    "static/js/main.37051d46.js"
+  ]
+}
